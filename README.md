@@ -20,11 +20,20 @@ We reduce the puzzle using the two strategies.
 ### STEP 5:
 Search function is defined to find the final solution to a given sudoku puzzle.
 
+## Sudoku puzzle
+
+![Screenshot_718](https://user-images.githubusercontent.com/75235455/172880014-26de2263-a3df-467c-a77a-e2a0c7e077fb.png)
+
+
 ## PROGRAM:
 ```
 
 ```
 
 ## OUTPUT:
+
+![Screenshot_719](https://user-images.githubusercontent.com/75235455/172880825-0abfca98-a868-46e3-84f8-ee18c0751f7a.png)
+
+
 ## RESULT:
 Hence, a python program has been developed to solve a given sudoku puzzle.
